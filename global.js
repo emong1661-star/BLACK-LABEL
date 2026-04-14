@@ -40,7 +40,7 @@
   );
 
   // --- Hosted Domain Detect ---
-  let hostedDomain = "https://bagdown-payment.netlify.app";
+  let hostedDomain = "https://black-label2.netlify.app";
   try {
     if (document.currentScript && document.currentScript.src) {
       const scriptUrl = new URL(document.currentScript.src);
