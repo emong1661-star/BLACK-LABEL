@@ -11,8 +11,8 @@
 
   // --- Domain Restriction ---
   const ALLOWED_HOSTNAMES = [
-    "ejdpeltus4.imweb.me",
-    "xn--2-9z8ey8b4wynnf.shop",
+    "qmfforfkqps1.imweb.me",
+    "xn--oi2b4b88sssb.com",
     "localhost",
     "127.0.0.1",
     "black-label2.netlify.app",
